@@ -1,5 +1,4 @@
 # Stack_MatchingDelimiters
-# Stack_MatchingDelimiters
 
 ## Description
 This project is a Java program that uses a Stack data structure to check whether delimiters are properly matched and arranged in the correct order. It checks parentheses `()`, square brackets `[]`, and curly braces `{}`.
